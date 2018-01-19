@@ -1,0 +1,14 @@
+{
+  "name": "learningconcepts",
+  "version": "1.0.0",
+  "description": "this is the exercise I am doing today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mat Young",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
